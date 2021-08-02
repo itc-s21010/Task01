@@ -1,9 +1,11 @@
-<h1>2回目のGithub</h1>
+#2回目のGithub
 itc-s21010
 金城星河
-<h2>ローカルリポジトリ</h2>
+
+##ローカルリポジトリ
 ・たこ焼きのレシピ
-<li>takoyaki.txt</li>
-<h3>リモートリポジトリ</h3>
-・<li>README.mdを作ってみる</li>
+(takoyaki.txt)
+
+##リモートリポジトリ
+・README.mdを作ってみる
 ・マークダウンを覚える
