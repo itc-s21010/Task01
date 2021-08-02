@@ -3,7 +3,7 @@ itc-s21010
 金城星河
 <h2>ローカルリポジトリ</h2>
 ・たこ焼きのレシピ
-(takoyaki.txt)(url)
+(takoyaki.txt)(https://github.com/itc-s21010/Task01.git)
 <h3>リモートリポジトリ</h3>
-・README.mdを作ってみる
+・README.md(https://github.com/itc-s21010/Task01.git)を作ってみる
 ・マークダウンを覚える
