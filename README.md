@@ -1,6 +1,7 @@
 <h1>2回目のGithub</h1>
 itc-s21010
 金城星河
+https://github.com/itc-s21010/Task01.git
 <h2>ローカルリポジトリ</h2>
 ・たこ焼きのレシピ
 [takoyaki.txt](takoyaki.txt)
